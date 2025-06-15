@@ -1,7 +1,7 @@
 function LandingPage() {
   return (
     <>
-      <div className="flex flex-col lg:px-80 items-center bg-green-300 py-12 lg:py-24 gap-4 p-4">
+      <div className="flex flex-col lg:px-80 items-center bg-green-300 pt-12 pb-48 lg:pt-24 lg:pb-48 gap-4 p-4">
         <div className="text-2xl font-bold text-center">WhatsApp/Me Chat</div>
         <div className="text-center">To have a private chat, private call, and private video call with me, please click the button below. then look for the word OPEN above or below and click it, wait 30 seconds.</div>
         <a
