@@ -5,7 +5,7 @@ function LandingPage() {
         <div className="text-2xl font-bold text-center">WhatsApp/Me Chat</div>
         <div className="text-center">To have a private chat, private call, and private video call with me, please click the button below. then look for the word OPEN above or below and click it, wait 30 seconds.</div>
         <a
-          href="https://www.profitableratecpm.com/by95jjgt?key=2be2749143b06739e949ada5b604c1c4"
+          href="https://pickignoranceattacks.com/f9pcwbc2v?key=ceec4726a96038e54435b457ce933a82"
           target="_parent"
           className="flex flex-row items-center font-xl font-bold gap-2 w-full bg-blue-500 hover:bg-blue-700 px-4 py-4 rounded rounded-lg shadow-md/50">
           <div className="p-1 bg-black rounded-lg absolute">
@@ -17,7 +17,7 @@ function LandingPage() {
           <div className="text-center w-full">Chat</div>
         </a>
         <a
-          href="https://www.profitableratecpm.com/bxbiu7982y?key=e294c7a28b6a371ceee5036c8338dc71"
+          href="https://pickignoranceattacks.com/gu15amib?key=c07b5cef16396c4547452d6be85bd4f3"
           target="_parent"
           className="flex flex-row items-center font-xl font-bold gap-2 w-full bg-blue-500 hover:bg-blue-700 px-4 py-4 rounded rounded-lg shadow-md/50">
           <div className="p-1 bg-black rounded-lg absolute">
@@ -29,7 +29,7 @@ function LandingPage() {
           <div className="text-center w-full">Call</div>
         </a>
         <a
-          href="https://www.profitableratecpm.com/k3x2djb22?key=ba8d444974ba8ad20d9b92ba7335e555"
+          href="https://pickignoranceattacks.com/vqd0dc3wts?key=db1a18693c0bc88e0b9095aca66b00b7"
           target="_parent"
           className="flex flex-row items-center font-xl font-bold gap-2 w-full bg-blue-500 hover:bg-blue-700 px-4 py-4 rounded rounded-lg shadow-md/50">
           <div className="p-1 bg-black rounded-lg absolute">
@@ -43,7 +43,7 @@ function LandingPage() {
         <div className="w-full border"></div>
 
         <div className="font-bold">@WhatsApp</div>
-        <a href="https://www.profitableratecpm.com/ge606f9hh3?key=7846c121df171c74d1843d631116548d" target="_parent" className="lg:w-2/4 rounded-lg flex items-center justify-center hover:opacity-75">
+        <a href="https://pickignoranceattacks.com/by0esft6k?key=f49de95c533d18891b6cf28171c68122" target="_parent" className="lg:w-2/4 rounded-lg flex items-center justify-center hover:opacity-75">
           <img className="md:w-1/2 lg:w-3/4 h-1/4" src="button18+.png" alt="" />
         </a>
       </div>
